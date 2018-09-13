@@ -1,0 +1,14 @@
+﻿
+
+Task description:
+	
+	Refactor the Shape class to support the need of more shapes. You can make any change you see are needed in code or tests.
+
+	See the tests for more information.
+
+Code Requirements:
+
+	1. All the test must pass.
+	2. The code should fulfil OOP and SOLID principles.
+	3. The code should be maintainable.
+	 

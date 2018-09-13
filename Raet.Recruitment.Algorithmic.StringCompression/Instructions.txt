@@ -1,0 +1,16 @@
+﻿
+
+Task description:
+	
+	Write the method "Compress" which must perform basic string compression using the counts of repeated characters. 
+	If the compressed result is greater or equal to the input string then the it's an uncompressible string.
+	
+	See the tests for more information.
+
+
+Code Requirements:
+
+	1. All the test must pass.
+	2. The algorithm should be efficient.
+	3. The code should be maintainable.
+

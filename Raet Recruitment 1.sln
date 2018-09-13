@@ -1,0 +1,45 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Raet.Recruitment.Algorithmic.StringCompression", "Raet.Recruitment.Algorithmic.StringCompression\Raet.Recruitment.Algorithmic.StringCompression.csproj", "{3B3081D6-3723-4FE1-B71E-9550043F02CD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Raet.Recruitment.Desing.ChatService", "Raet.Recruitment.Desing.ChatService\Raet.Recruitment.Desing.ChatService.csproj", "{31573020-4312-4C87-98F3-8BC360B429BD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Raet.Recruitment.Refactoring.Shapes", "Raet.Recruitment.Refactoring.Shapes\Raet.Recruitment.Refactoring.Shapes.csproj", "{3B97E260-350D-4B92-9ECB-A5EA659F892E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1", "1", "{04D31B80-DEFB-4D92-9097-5A4F24840EE8}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2", "2", "{C365EB98-2D39-4F3A-9028-BC71F8610EF7}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "3", "3", "{EDBDBD31-1BEB-41FD-8A95-179E1F3D393E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3B3081D6-3723-4FE1-B71E-9550043F02CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B3081D6-3723-4FE1-B71E-9550043F02CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B3081D6-3723-4FE1-B71E-9550043F02CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B3081D6-3723-4FE1-B71E-9550043F02CD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{31573020-4312-4C87-98F3-8BC360B429BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31573020-4312-4C87-98F3-8BC360B429BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31573020-4312-4C87-98F3-8BC360B429BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31573020-4312-4C87-98F3-8BC360B429BD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3B97E260-350D-4B92-9ECB-A5EA659F892E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B97E260-350D-4B92-9ECB-A5EA659F892E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B97E260-350D-4B92-9ECB-A5EA659F892E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B97E260-350D-4B92-9ECB-A5EA659F892E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{3B3081D6-3723-4FE1-B71E-9550043F02CD} = {04D31B80-DEFB-4D92-9097-5A4F24840EE8}
+		{31573020-4312-4C87-98F3-8BC360B429BD} = {EDBDBD31-1BEB-41FD-8A95-179E1F3D393E}
+		{3B97E260-350D-4B92-9ECB-A5EA659F892E} = {C365EB98-2D39-4F3A-9028-BC71F8610EF7}
+	EndGlobalSection
+EndGlobal

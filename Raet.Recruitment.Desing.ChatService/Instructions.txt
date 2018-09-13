@@ -1,0 +1,32 @@
+﻿
+
+Task description:
+
+	Write the domain model for a chat service. 
+
+	Designing a chat service is certainly far beyond the scope of what could be completed in a recruitment test. 
+	Please focus only in what is a fair representation of its model.
+
+	Entities:
+
+	 - Users
+	 - Conversations
+	 - Contacts
+
+	Behaviour:
+
+	 - Get user profile.
+	 - Add contact request.
+	 - Update status message (user is online, offline, custom message)
+	 - Creating private and group conversations.
+	 - Send messages to private and group conversations.
+
+
+Code requirements:
+
+	1. The code should fulfil OOP and SOLID principles.
+	2. The code should be maintainable.
+
+Hint:
+	- This task evaluates desing & clean code over algorithmic. 
+	- There is not exact correct answer. Feel free to add more Entities and/or Behaviour
